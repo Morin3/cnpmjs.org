@@ -79,7 +79,7 @@
   "devDependencies": {
     "autod": "*",
     "chunkstream": "*",
-    "git-contributor": "^1.0.10",
+    "git-contributor": "^2.0.0",
     "intelli-espower-loader": "^1.0.1",
     "istanbul": "*",
     "jshint": "*",
@@ -92,7 +92,7 @@
     "power-assert": "^1.4.2",
     "should": "8",
     "sqlite3": "*",
-    "supertest": "2",
+    "supertest": "7.1.3",
     "thunk-mocha": "1"
   },
   "homepage": "https://github.com/cnpm/cnpmjs.org",
